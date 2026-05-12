@@ -1,7 +1,7 @@
 # Hey, I'm Mario 👋
 
-I'm an AI Product Manager & Applied AI Consultant based in Switzerland 🇨🇭  
-15+ years building digital products — most recently in banking (Raiffeisen, StarFinanz).  
+I'm an AI Product Manager & Applied AI Consultant based in Switzerland 
+15+ years building digital products — most recently in banking (Raiffeisen, StarFinanz - Sparkasse).  
 Today I focus on making AI actually useful: workflows, prototypes, and tools that solve real problems.
 
 ---
@@ -29,7 +29,7 @@ Today I focus on making AI actually useful: workflows, prototypes, and tools tha
 ## 📂 What I share here
 
 - **n8n workflows** — ready-to-import automations for real business use cases  
-- **Vibe coding projects** — functional tools built AI-assisted, no classic dev background needed  
+- **Vibe coding projects** — functional tools built AI-assisted, no classic dev background needed
 - **AI prototypes** — LLM-based experiments and product concepts  
 - **Skills & templates** — reusable building blocks for product and AI work  
 
