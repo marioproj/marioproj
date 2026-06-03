@@ -37,4 +37,3 @@ Today I focus on making AI actually useful: workflows, prototypes, and tools tha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Nüesch-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marionueesch)
 [![Website](https://img.shields.io/badge/Web-mario.pm-000000?style=flat&logo=safari)](https://mario.pm)
-[![Email](https://img.shields.io/badge/Email-hi@mario.pm-D14836?style=flat&logo=gmail)](mailto:hi@mario.pm)
