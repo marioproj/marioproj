@@ -11,7 +11,7 @@ Today I focus on making AI actually useful: workflows, prototypes, and tools tha
 - 🏦 Background in Banking & Fintech — I know how regulated environments work
 - 🤝 Open to collaborate on AI workflow projects, n8n flows or product-focused prototypes
 - 💬 Ask me about AI product strategy, prompt engineering, n8n, or getting started with vibe coding
-- 📫 Reach me at **hi@mario.pm** or on [LinkedIn](https://www.linkedin.com/in/marionueesch)
+- 📫 Reach me by a short [message](https://tally.so/r/zxOj00) or on [LinkedIn](https://www.linkedin.com/in/marionueesch)
 - ⚡ Fun fact: I went from electrician apprentice to AI Product Consultant — turns out wiring systems and wiring workflows aren't that different
 
 ---
