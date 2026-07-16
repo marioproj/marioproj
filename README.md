@@ -15,10 +15,12 @@ Today I build my own apps and share the whole journey: the wins, the fails, and 
 - ⚡ Fun fact: I went from electrician to AI Product Consultant. Turns out wiring up complex technical systems is my thing either way.
 
 
+
 ## 📂 What you'll find here
 
 - **Free projects**: selected apps, tools and experiments, free to download and use
 - **Workflows, skills & templates**: ready-to-import automations and reusable building blocks to make daily (work) life a bit easier
+
 
 
 ## 📬 The Builders Lab
