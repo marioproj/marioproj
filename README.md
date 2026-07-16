@@ -12,7 +12,7 @@ Today I build my own apps and share the whole journey: the wins, the fails, and 
 - 🤝 Open to collaborate, whether as Product Manager on your team or on AI & app projects
 - 💬 Ask me about AI product strategy, prompt engineering, n8n, or building apps without a classic dev background
 - 📫 Reach me via [message](https://tally.so/r/zxOj00) or [mario.pm](https://mario.pm)
-- ⚡ Fun fact: I went from electrician to AI Product Consultant. Turns out wiring up complex technical systems is my thing either way.
+- ⚡ Fun fact: I went from electrician to AI Product Consultant. Turns out wiring up complex systems is my thing, one way or another.
 
 
 
@@ -30,7 +30,7 @@ The wins, the fails, real numbers and the honest process. Follow along.
 
 👉 **[thebuilderslab.co](https://thebuilderslab.co)**
 
---
+
 
 [![Website](https://img.shields.io/badge/Web-mario.pm-000000?style=flat&logo=safari)](https://mario.pm)
 [![The Builders Lab](https://img.shields.io/badge/Newsletter-The_Builders_Lab-EA4B71?style=flat&logo=substack&logoColor=white)](https://thebuilderslab.co)
