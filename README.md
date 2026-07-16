@@ -16,14 +16,14 @@ Today I build my own apps and share the whole journey: the wins, the fails, and 
 
 
 
-## 📂 What you'll find here
+## What you'll find here
 
 - **Free projects**: selected apps, tools and experiments, free to download and use
 - **Workflows, skills & templates**: ready-to-import automations and reusable building blocks to make daily (work) life a bit easier
 
 
 
-## 📬 The Builders Lab
+## The Builders Lab
 
 I write and speak about building products in public: what I'm building, what worked, what didn't, and the thinking behind it.
 The wins, the fails, real numbers and the honest process. Follow along.
