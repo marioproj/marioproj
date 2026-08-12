@@ -1,4 +1,4 @@
-# Hey, I'm Mario
+# Hey, I'm Mario 👋
 
 AI Product Manager & Applied AI Consultant from Switzerland.
 15+ years building digital products, most recently in banking (Raiffeisen, StarFinanz / Sparkasse).
@@ -14,7 +14,8 @@ Today I build my own apps and digital products — with a clear focus on usefuln
 - Reach me via [message](https://tally.so/r/zxOj00) or [mario.pm](https://mario.pm)
 
 Fun fact: I went from electrician to AI Product Consultant. Wiring up complex systems is still my thing.
-
+[![Website](https://img.shields.io/badge/Web-mario.pm-24292F?style=flat&logo=safari&logoColor=white)](https://mario.pm)
+[![Woumba](https://img.shields.io/badge/Company-woumba.com-24292F?style=flat&logo=googlechrome&logoColor=white)](https://woumba.com)
 
 ## What you'll find here
 
@@ -25,11 +26,4 @@ Fun fact: I went from electrician to AI Product Consultant. Wiring up complex sy
 ## The Builders Lab
 
 For builders. Sharing the insights, lessons, and journey of building digital products.
-
-**[thebuilderslab.co](https://thebuilderslab.co)**
-
-
-[![Website](https://img.shields.io/badge/Web-mario.pm-24292F?style=flat&logo=safari&logoColor=white)](https://mario.pm)
-[![Woumba](https://img.shields.io/badge/Company-woumba.com-24292F?style=flat&logo=googlechrome&logoColor=white)](https://woumba.com)
 [![The Builders Lab](https://img.shields.io/badge/Newsletter-The_Builders_Lab-24292F?style=flat&logo=substack&logoColor=white)](https://thebuilderslab.co)
-
