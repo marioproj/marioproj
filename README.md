@@ -29,3 +29,10 @@ Working on [The Builders Lab](https://thebuilderslab.co).
 For builders. Share insights, the journey of building, and connect.
 
 [![The Builders Lab](https://img.shields.io/badge/Follow_along-The_Builders_Lab-%23FCEEBC.svg?style=for-the-badge)](https://thebuilderslab.co)
+
+
+## Support with a coffee
+
+If this is useful, you can [support with a coffee](https://liberapay.com/mariobuilds/donate) on Liberapay.
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/mariobuilds/donate)
