@@ -33,6 +33,4 @@ For builders. Share insights, the journey of building, and connect.
 
 ## Support with a coffee
 
-If this is useful, you can [support with a coffee](https://ko-fi.com/marioproj) on Ko-fi.
-
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marioproj)
+If this is useful, you can [support with a coffee](https://ko-fi.com/marioproj) on Ko-fi ☕❤️.
