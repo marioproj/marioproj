@@ -33,6 +33,6 @@ For builders. Share insights, the journey of building, and connect.
 
 ## Support with a coffee
 
-If this is useful, you can [support with a coffee](https://liberapay.com/mariobuilds/donate) on Liberapay.
+If this is useful, you can [support with a coffee](https://ko-fi.com/marioproj) on Ko-fi.
 
-[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/mariobuilds/donate)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marioproj)
