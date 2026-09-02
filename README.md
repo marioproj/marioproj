@@ -16,21 +16,3 @@ Fun fact: I went from electrician to AI Product Consultant. Wiring up complex sy
 
 [![mario.pm](https://img.shields.io/badge/All_projects-mario.pm-%231a1a1a.svg?style=for-the-badge)](https://mario.pm)
 [![woumba](https://img.shields.io/badge/Company-woumba.com-%23da6d69.svg?style=for-the-badge)](https://woumba.com)
-
-
-## What you'll find here
-
-- **Free projects**: selected apps, tools and experiments — free to download and use
-- **Workflows, skills & templates**: ready-to-import automations and reusable building blocks
-
-
-## The Builders Lab
-Working on [The Builders Lab](https://thebuilderslab.co).
-For builders. Share insights, the journey of building, and connect.
-
-[![The Builders Lab](https://img.shields.io/badge/Follow_along-The_Builders_Lab-%23FCEEBC.svg?style=for-the-badge)](https://thebuilderslab.co)
-
-
-## Support with a coffee
-
-If this is useful, you can [support with a coffee](https://ko-fi.com/marioproj) on Ko-fi ☕❤️.
