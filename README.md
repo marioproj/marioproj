@@ -1,16 +1,17 @@
 # Hey, I'm Mario 👋
 
 AI Product Manager & Applied AI Consultant from Switzerland.
-15+ years building digital products, most recently in banking (Raiffeisen, StarFinanz / Sparkasse).
-Today I also build my own apps and digital products.
+15+ years building digital products, most recently in banking.
+Today I also design, build and ship my own mobile and desktop apps, from idea to UX to code.
 
-
-- Building apps and tools that should make a measurable difference.
+- Building apps and tools myself that make a measurable difference.
+- Deep appreciation for UX and UI: I care as much about how a product feels as about what it does.
+- Self-taught builder with hands-on experience as a Frontend Engineer.
 - Exploring LLM-based product use cases, agents, and AI-assisted development.
-- Background in Banking & Fintech, comfortable in regulated environments.
-- Open to collaborate as Product Manager or on AI & app projects.
-- Ask me about AI product strategy, prompt engineering, n8n, or building without a classic dev background.
-- Wanna get in touch? Drop me a [message](https://tally.so/r/zxOj00).
+- Background in banking, web and mobile applications, comfortable in regulated environments.
+- Open to collaborating as Product Manager or on AI & app projects.
+- Ask me about AI product strategy, UX, and engineering.
+- Want to get in touch? Drop me a [message](https://tally.so/r/zxOj00).
 
 Fun fact: I went from electrician to AI Product Consultant. Wiring up complex systems is still my thing.
 
